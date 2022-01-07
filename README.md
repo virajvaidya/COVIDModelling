@@ -5,7 +5,7 @@ The files and their contents are as follows:
 
 **_MITCOVID1_** - Exploratory Data Analysis. Fetching, cleaning, exploring the Johns Hopkins University (JHU SSE) Global Novel Coronavirus (COVID-19) Dataset.
 
-**_MITCOVID2_** - Understanding and modelling exponential as well as logistic growth in case numbers.
+**_MITCOVID2_** - Understanding and modelling exponential and logistic growth in case numbers.
 
 **_MITCOVID3_** - Using probability concepts such as Bernoulli processes, Monte Carlo to to understand recovery processes.
 
