@@ -3,7 +3,7 @@ COVID-19 Case Modelling in Julia completed as part of the MIT Math 6S083 Course.
 
 The files and their contents are as follows:
 
-**_MITCOVID1_** - Exploratory Data Analysis, fetching, cleaning, exploring the Johns Hopkins University (JHU SSE) Novel Coronavirus (COVID-19) Dataset.
+**_MITCOVID1_** - Exploratory Data Analysis. Fetching, cleaning, exploring the Johns Hopkins University (JHU SSE) Global Novel Coronavirus (COVID-19) Dataset.
 
 **_MITCOVID2_** - Understanding and modelling exponential as well as logistic growth in case numbers.
 
