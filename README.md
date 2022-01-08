@@ -1,4 +1,4 @@
-# 💉 COVID-19 Modelling :mask:
+# 💉 Computational Modelling with Julia - COVID-19 Modelling :mask:
 COVID-19 Case Modelling in Julia completed as part of the MIT Math 6S083 Course.
 
 The files and their contents are as follows:
