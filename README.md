@@ -11,4 +11,4 @@ The files and their contents are as follows:
 
 **_MITCOVID5_** - Understanding 'Random Walk' or Stochastic Processes. 
 
-**_MITCOVID6_** - Characterising variablity in stochastic processes.
+**_MITCOVID6_** - Characterising variablity in stochastic processes, defining new types in Julia.
