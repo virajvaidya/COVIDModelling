@@ -10,3 +10,5 @@ The files and their contents are as follows:
 **_MITCOVID3_** - Using probability concepts such as Bernoulli processes, Monte Carlo method to understand recovery processes.
 
 **_MITCOVID5_** - Understanding 'Random Walk' or Stochastic Processes. 
+
+**_MITCOVID6_** - Characterising variablity in stochastic processes.
